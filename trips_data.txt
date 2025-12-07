@@ -1,0 +1,6 @@
+Trip: santhu
+Vehicle: Petrol Car
+Days: 3
+Options: Sightseeing, Shopping, Luxury stay
+Total Cost: 305681.47
+------------------------------
